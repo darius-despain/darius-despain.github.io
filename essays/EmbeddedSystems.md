@@ -9,8 +9,6 @@ labels:
   - Operating Systems
 ---
 
-
-
 Machines are driven by some kind of controlling mechanism to process data and allow the machine to operate. Originally this was done with analog systems which were fixed and only able to fulfil one purpose, but since then the technology of computers has evolved and with-it industrial control. Embedded systems are these computers and are used in endless devices we all use every day.
   
 This report is defined by the handout [1] and the remainder of this report will be organized as follows. Section 2 will discuss what an embedded system is. Section 3 will discuss its history. Section 4 will go over two popular embedded system platforms; Raspberry Pi and Arduino Uno and Yun. Section 5 will expand on different operating systems for embedded systems. Section 6 is the conclusion.
@@ -60,19 +58,36 @@ In summary, embedded systems are an invaluable tool that the industry relies on 
 ## References
 
 [1] G Sasaki (n.d.). EE468-Writing-Embedded [Online]. Available: https://laulima.hawaii.edu
+
 [2] "What is embedded system? - Definition from WhatIs.com", IoT Agenda, 2018. [Online]. Available: https://internetofthingsagenda.techtarget.com/definition/embedded-system. [Accessed: 14- Nov- 2018].
+
 [3] "Milestones in embedded systems design", Embedded, 2018. [Online]. Available: https://www.embedded.com/design/prototyping-and-development/4007514/Milestones-in-embedded-systems-design. [Accessed: 14- Nov- 2018].
+
 [4] F. Knoegell, "history of embedded system", Academia.edu, 2018. [Online]. Available: https://www.academia.edu/8286031/history_of_embedded_system?auto=download. [Accessed: 14- Nov- 2018].
+
 [5] T. Agarwal, "Raspberry pi Technology, Working and Its Applications", Edgefxkits International, 2018. [Online]. Available: https://www.efxkits.com/blog/raspberry-pi-technology-with-applications/. [Accessed: 14- Nov- 2018].
+
 [6] "The Raspberry Pi Board Guide: Zero vs. Model A and B", MakeUseOf, 2018. [Online]. Available: https://www.makeuseof.com/tag/raspberry-pi-board-guide/. [Accessed: 14- Nov- 2018].
+
 [7] "Arduino Uno Rev3", Store.arduino.cc, 2018. [Online]. Available: https://store.arduino.cc/usa/arduino-uno-rev3. [Accessed: 14- Nov- 2018].
+
 [8] "Arduino Yún", Store.arduino.cc, 2018. [Online]. Available: https://store.arduino.cc/usa/arduino-yun. [Accessed: 14- Nov- 2018].
+
 [9] "Mynewt Documentation — Apache Mynewt latest documentation", Mynewt.apache.org, 2018. [Online]. Available: http://mynewt.apache.org/latest/index.html. [Accessed: 14- Nov- 2018].
+
 [10] "ChibiOS free embedded RTOS - Introduction", Chibios.org, 2018. [Online]. Available: http://www.chibios.org/dokuwiki/doku.php?id=chibios:book:intro. [Accessed: 14- Nov- 2018].
+
 [11] "ChibiOS free embedded RTOS - ChibiOS General Architecture", Chibios.org, 2018. [Online]. Available: http://www.chibios.org/dokuwiki/doku.php?id=chibios:book:architecture. [Accessed: 14- Nov- 2018].
+
 [12] "Open Source RTOS", Osrtos.com, 2018. [Online]. Available: https://www.osrtos.com/rtos/contiki-os. [Accessed: 14- Nov- 2018].
+
 [13] "RIOT-OS/RIOT", GitHub, 2018. [Online]. Available: https://github.com/RIOT-OS/RIOT. [Accessed: 14- Nov- 2018].
+
 [14] "Scheduler", Riot-os.org, 2018. [Online]. Available: https://riot-os.org/api/group__core__sched.html. [Accessed: 14- Nov- 2018].
+
 [15] Yodaiken.com, 2018. [Online]. Available: http://www.yodaiken.com/papers/BarabanovThesis.pdf. [Accessed: 14- Nov- 2018].
+
 [16] "What is VxWorks? - Definition from Techopedia", Techopedia.com, 2018. [Online]. Available: https://www.techopedia.com/definition/15969/vxworks. [Accessed: 14- Nov- 2018].
+
 [17] "Introducing Zephyr — Zephyr Project Documentation", Docs.zephyrproject.org, 2018. [Online]. Available: https://docs.zephyrproject.org/latest/introduction/introducing_zephyr.html. [Accessed: 14- Nov- 2018].
+
