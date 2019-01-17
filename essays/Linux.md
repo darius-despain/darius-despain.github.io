@@ -55,7 +55,7 @@ The remainder of this paper will be organized as follows. Section 2 will discuss
 
   In summary Linux is an open-source OS that has numerous different versions made by different companies and communities, but are all based on the Linux Kernel by Linus Torvalds. This OS is a fast, capable, adaptable piece of software that is the backbone of countless servers and workstations across the world. It is the backbone of even our smartphone Android OS and it runs on machines like the Raspberry Pi which enables development of countless different new applications for the end user.
   
-  ## References
+## References
  
 [1] G Sasaki (n.d.). EE468-Writing-Linux [Online]. Available: https://laulima.hawaii.edu
 
