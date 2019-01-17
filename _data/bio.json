@@ -92,6 +92,19 @@
   ],
   "work": [
     {
+      "organization": "Air Force ROTC",
+      "website": "http://manoa.hawaii.edu/undergrad/aerospace/",
+      "position": "Contracted Senior Cadet",
+      "startDate": "2015-08-24",
+      "endDate": "Present",
+      "summary": "Training to become an officer in  the United States Air Force",
+      "highlights": [
+        "AFROTC Type 1 Commander In-College Scholarship ",
+        "Develop plans and execute training for new cadets",
+        "Hone professionalism in preparation of becoming an officer"
+      ]
+    },
+    {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
@@ -105,20 +118,7 @@
       ]
     }
   ],
-  "leadership": [
-    {
-      "organization": "Air Force ROTC",
-      "website": "http://manoa.hawaii.edu/undergrad/aerospace/",
-      "position": "Contracted Senior Cadet",
-      "startDate": "2015-08-24",
-      "endDate": "Present",
-      "summary": "Training to become an officer int he United States Air Force",
-      "highlights": [
-        "AFROTC Type 1 Commander In-College Scholarship ",
-        "Develop plans and execute training for new cadets",
-        "Hone professionalism in preparation of becoming an officer"
-      ]
-    },
+  "volunteer": [
     {
       "organization": "Arnold Air Society",
       "website": "https://aas-sw.org",
