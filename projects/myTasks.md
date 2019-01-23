@@ -54,6 +54,6 @@ Expandability
 * Programming Languages: Java, SQLite 
 * Github used to sync android studio with 3 people
 
-
+You can see our code on [GitHub](https://github.com/EE396-Android-Project/HomeworkPlanner).
 
 
