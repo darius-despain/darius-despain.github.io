@@ -27,7 +27,7 @@ My team and I noticed that students always have lots of homework to do with vary
 ## Behavior:
 The user is able to input field such as due date, approximate time to complete task, and an importance field to give more weight to that task over others of the same complexity. The app then sorts the list of tasks 
 
-# You can see our code on [GitHub](https://github.com/EE396-Android-Project/HomeworkPlanner).
+### You can see our code on [GitHub](https://github.com/EE396-Android-Project/HomeworkPlanner).
 
 ## My role:
 helped come up with the priority algorithm and all the fields for user input. Came up with initial ideas to get the project going. Debugged problems in code 
