@@ -9,6 +9,7 @@ date: 2017-12-01
 labels:
   - Android Development
   - Java
+  - Github
 summary: My team and I developed a task prioritizer app called MyTasks to give students a prioritized to do list.
 ---
 
@@ -52,5 +53,7 @@ Expandability
 ## Skills: 
 * Programming Languages: Java, SQLite 
 * Github used to sync android studio with 3 people
+
+
 
 
