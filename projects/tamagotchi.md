@@ -11,6 +11,7 @@ labels:
   - Game
   - Github
 summary: A C++ based game to mimic the Japanese handheld pet game Tamagotchi.
+projecturl: https://github.com/darius-despain/EE205FinalProject
 ---
 
 Using C++, our team wrote a game based on the Japanese handheld pet game Tamagotchi. This game creates a virtual pet upon startup and has different stats, then according to different user inputs the pet will continue to grow or die. The user can perform many different functions including sleep, feed, clean, and play where each function will affect the stats of the pet based on the outcome of the function.
