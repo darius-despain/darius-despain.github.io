@@ -24,14 +24,15 @@ In this section we will discuss some examples of good and bad questions and how 
 #### Good Question
 words words.
 
-*I'm trying to iterate over the words of a string.
 
-The string can be assumed to be composed of words separated by whitespace.
+*I'm trying to iterate over the words of a string.*
 
-Note that I'm not interested in C string functions or that kind of character manipulation/access. Also, please give precedence to elegance over efficiency in your answer.
+*The string can be assumed to be composed of words separated by whitespace.*
 
-The best solution I have right now is:*
-````
+*Note that I'm not interested in C string functions or that kind of character manipulation/access. Also, please give precedence to elegance over efficiency in your answer.*
+
+*The best solution I have right now is:*
+```c++
 #include <iostream>
 #include <sstream>
 #include <string>
@@ -50,18 +51,19 @@ int main()
         cout << "Substring: " << subs << endl;
     } while (iss);
 }
-````
+```
 *Is there a more elegant way to do this?*
 
 #### Bad Question
 
 
-*I didn't find a package contains a class JXScrollUp because of sample source code JXScrollupTest.java. I'm using this classpath:*
-````
-appframework-1.03.jar:swingx-all-1.6.3.jar:SwingSet3.jar:timingframework-1.0.jar:jgoodies-looks-2.5.0.jar:jgoodies-forms-1.5.0.jar:.).
-````
-*How can I compile it? Many thanks
 
-Lukas*
+*I didn't find a package contains a class JXScrollUp because of sample source code JXScrollupTest.java. I'm using this classpath:*
+```java
+appframework-1.03.jar:swingx-all-1.6.3.jar:SwingSet3.jar:timingframework-1.0.jar:jgoodies-looks-2.5.0.jar:jgoodies-forms-1.5.0.jar:.).
+```
+*How can I compile it? Many thanks*
+
+*Lukas*
 
 ## Takeaways
