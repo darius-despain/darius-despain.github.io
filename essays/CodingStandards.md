@@ -11,58 +11,23 @@ labels:
 I have always found myself writing code according to some standard to improve my own understanding and readability. When reading others' code I notice following a similar standard to my own improves my ability to understand their code and immediately jump in. Writing code according to a standard improves efficiency, effectiveness, and readability when writing programs.
 
 ## Using Coding Standards to Learn a Language
-
-
-## Coding Standards with Intellij IDEA and ESLint
-In this section we will discuss some examples of good and bad questions and how they impacted the result of the inquiry. They showcase in general how a good question can yield far better help than a bad question.
-
-
-The "good" question, from [stackoverflow](https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string), points out the outcome of what the user is trying to do, iterate over the words of a string, rather than the exact method the user is using, such as for loop or while loop. The user is very specific in what current assumptions are in place and what is the desired outcome. The user then displays a full code where anyone can see exactly what the whole program is doing. We see the question below.
-
-
-> *I'm trying to iterate over the words of a string.*
-
-> *The string can be assumed to be composed of words separated by whitespace.*
-
-> *Note that I'm not interested in C string functions or that kind of character manipulation/access. Also, please give precedence to elegance over efficiency in your answer.*
-
->  *The best solution I have right now is:*
+When I learn a new language, I often conform to the standards of the learning platform I am using to ensure I get the syntax right at first. This shows me exactly how I can write a particular section of code, for example in the following code example I nest my while loop and if statement with tabs such that I can see how the code is organized and I can trace the code better through the flow of the statements.
 
 ```c++
-#include <iostream>
-#include <sstream>
-#include <string>
-
-using namespace std;
-
-int main()
-{
-    string s = "Somewhere down the road";
-    istringstream iss(s);
-
-    do
-    {
-        string subs;
-        iss >> subs;
-        cout << "Substring: " << subs << endl;
-    } while (iss);
+while(1) {
+  if(1) {
+    return;
+  }
 }
 ```
-> *Is there a more elegant way to do this?*
+An experienced coder might not think this is a big deal, but to a new programmer, seeing a rigid structure with defined patterns will squash uncertainty and help them to understand the code easier and faster.
 
-We can see on the post that there are 2756 votes at the time of writing this essay and 76 answers. Clearly this post has a helpful answers with this much attention.
+## Coding Standards with Intellij IDEA and ESLint
+In this section we will discuss how coding standards with Intellij IDEA and ESLint add to the coding experience.
 
+Intellij IDEA is an IDE that allows for a number of useful features. Included in these is ESLint. ESLint uses a coding standard to check the syntax in a file and notifies the user when a given piece of code does not conform to the standard. While these notifications do not prevent compilation of code, they are used as suggestions so that the user can adjust their code to the standard.
 
-We can see with the following "bad" question, from [stackoverflow](https://stackoverflow.com/questions/9564461/jxscrollup-compile), that the user starts out by stating the specific error for the package used and only asks how to compile it. Referencing the question below we see that they failed to identify the root problem they were trying to solve, why they need that package in the first place or what the bigger problem is. This means that there is no room for other alternative suggestions and it is limited to asking only the people that know the exact package they are talking about. The user could have posted this better by elaborating more on the rest of the program they are using or including more source code in addition to using more correct grammar as it appears to be somewhat broken english and cuts out explanations. With a better explanation, they might have been able to provide more information so more potential solutions could be found by other people. We see this question below.
-
-  > *I didn't find a package contains a class JXScrollUp because of sample source code JXScrollupTest.java. I'm using this classpath:*
-
-```java
-appframework-1.03.jar:swingx-all-1.6.3.jar:SwingSet3.jar:timingframework-1.0.jar:jgoodies-looks-2.5.0.jar:jgoodies-forms-1.5.0.jar:.).
-```
-  > *How can I compile it? Many thanks*
-
-  > *Lukas*
+Some users may find this to be a nuisance since it does not hinder operation of the code, but it is a fantastic tool for writing code that conforms to a standard and can even assist the user with making code usable or even fix bugs. For example, when the program defines a variable or function and does not call it, according to the standard we use in ICS 314, ESLint notifies you that the variable or function is never called, which is useful for missing variable reassignments or functions calls when they are supposed to be there. This can be translated into many more of the rules that ESLint catches where it can potentially fix problems in the code before compiling. 
 
 ## Conclusions
-The main things to take away from this essay is that a question needs to be specific in the issue, but provide enough context through describing the room problem so alternative solutions could be found. This in combination with proper grammar and writing to allow people to help you easier will expedite the answering process and make people more likely to provide a solution first of all, and a more quality one.
+Coding standards can be viewed as an annoyance or inconvenience to some, but there are numerous benefits including better readability, understanding, and ability to learn. In my opinion they should be implemented across all platforms and organizations so that code becomes more uniform and easier to work with.
