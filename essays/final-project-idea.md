@@ -18,7 +18,12 @@ Students on campus often need spaces to study and each student has a unique set 
 The solution to this problem includes a web application for students to determine what study spaces on campus are appropriate for them and which ones are closest to them.
 
 # Mockup page ideas
-This solution would have the following pages: homepage, list of all study spaces with different parameters of each space listed, and once logged in, a page for customizing a class schedule or schedule of where one would be on campus at certain times, and lastly a recommendations page where it would show the ideal study locations.
+This solution would have the following pages:
+- Homepage
+- List of Study Spaces
+- Login
+- Register
+- Student profile
 
 # Use case ideas
 Students are able to use this to see available lounge locations on campus in one consolidated place. This will list hours, capabilities, capacity of the location, and accessibility to different types of students.  It could take the student's record including class schedule and major to filter locations based on if the student has access or what kind of resources they require based on the classes they take. It could also sort the locations based on the proximity to the students' location allowing them to have a list of most optimal locations.
