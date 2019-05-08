@@ -4,6 +4,7 @@ type: essay
 title: Embedded Systems
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-14
+draft: true
 labels:
   - Raspberry Pi
   - Operating Systems

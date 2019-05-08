@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Check Twice, Run Once
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
 labels:

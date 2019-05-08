@@ -8,8 +8,8 @@
     "website": "https://darius-despain.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and am currently a cadet at the Air Force ROTC unit, Detachment 175, at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020. My goal is to use my passion for technology to help people, specifically by becoming a cyber leader in the United States Air Force.",
     "location": {
-      "address": "1363 Ainakoa Ave",
-      "postalCode": "96821",
+      "address": "2500 Campus Rd",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -43,6 +43,7 @@
     {
       "name": "Cyber Security",
       "keywords": [
+        "networking"
       ]
     }
   ],
@@ -56,7 +57,12 @@
         "Java",
         "Javascript",
         "Legv8 Assembly",
-        "Python"
+        "Python",
+        "HTML",
+        "CSS",
+        "semantic UI",
+        "React",
+        "Meteor"
       ]
     },
     {
@@ -127,7 +133,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "National Conclave HQ Chief of Protocol, Nov 2018 - Present",
+        "National Chief of Protocol Executive Officer, Apr 2019 - present",
+        "National Conclave HQ Chief of Protocol, Nov 2018 - Apr 2019",
         "Area-Region Conclave 11 Vice Commander, Apr 2018 - Oct 2018",
         "National Chief of Protocol Executive Officer, Oct 2017 - Apr 2018",
         "Area-Region 11 Chief of Protocol, Apr 2017 - Oct 2017"

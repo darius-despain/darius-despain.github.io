@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Cloud Computing
+title: Data in the Clouds
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-19
 labels:
