@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Linux
+title: Behind the Open Source Operating System: Linux
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-21
 labels:

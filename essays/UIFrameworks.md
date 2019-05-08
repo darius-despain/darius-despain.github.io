@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: Going Beyond HTML and CSS
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-21
 labels:
