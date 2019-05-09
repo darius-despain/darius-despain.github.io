@@ -15,8 +15,6 @@ summary: A web platform for companies to find potential employees for their comp
 
 ![image](../images/teleskope.jpg)
 
-# Teleskope
-
 For my Computer Science 314 class, Software Engineering, we had the task of creating a final project to tie together all the skills we had learned over the course of the semester. We spent the first half of the semester learning the basics, starting with Javascript, then moving on to HTML, CSS, and finally meteor and react to build more complicated web pages. I worked together on this final project with Jeff Takiguchi, Josh Walters, and Matthew Kim.
 
 ## Prompt- Company Connector  
