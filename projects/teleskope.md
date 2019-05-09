@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/teleskope.png
+image: images/teleskope.jpg
 title: Teleskope
 permalink: projects/teleskope
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A web platform for companies to find potential employees for their companies.
 ---
 
-![image](../images/teleskope.png)
+![image](../images/teleskope.jpg)
 
 # Teleskope
 
