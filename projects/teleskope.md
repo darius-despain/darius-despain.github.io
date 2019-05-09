@@ -27,7 +27,7 @@ The solution to this problem is to create a web application for local and non-lo
 A more detailed description of this prompt can be found on our [course website](http://courses.ics.hawaii.edu/ics314s19/morea/final-project/reading-project-company-connector.html) 
 
 ## Final Product
-![image](../images/teleskopeLanding.png)
+![image](../images/teleskopeLanding.png =400x)
 
 Our group took this prompt and came up with our own interpretation of the solution by deciding we wanted to have a central place for students and companies to browse for companies, but also include some personalization. We did this through allowing profiles to be made for both companies and students. These profiles allow you to link your social media, email, and other websites, write a bio about yourself, and most importantly add skills to your profile to help better match you with companies. Once you create your profile and add skills, then the companies page will display not only all companies, but companies at the top that match your skills closely. You can also favorite companies you are interested in to add them to your following list. Companies can also show interest in a particular student through the same favoriting system. These notifications of companies you are following and companies that are interested in you are all shown in the dashboard page.
 
