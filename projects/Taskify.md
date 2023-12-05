@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arduino.jpg
+image: images/taskify_screenshot.png
 title: Taskify
 permalink: projects/taskify
 # All dates must be YYYY-MM-DD format!
