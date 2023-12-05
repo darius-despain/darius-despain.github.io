@@ -3,16 +3,16 @@
     "name": "Darius DeSpain",
     "label": "Student",
     "picture": "https://darius-despain.github.io/images/headshotSquare.jpg",
-    "email": "ddespain@hawaii.edu",
+    "email": "darius.despain@gmail.com",
     "phone": "",
     "website": "https://darius-despain.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and am currently a cadet at the Air Force ROTC unit, Detachment 175, at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020. My goal is to use my passion for technology to help people, specifically by becoming a cyber leader in the United States Air Force.",
+    "summary": "I am a transitioning servicemember who is seeking a skillbridge internship followed by employment in the role of Full-Stack Software Developer/Engineer. I am relocating to Fort Collins, CO for my skillbridge to live with my wife, and am looking for remote or hybrid opportunities that support this location.",
     "location": {
-      "address": "2500 Campus Rd",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "9173 Castlebear Dr",
+      "postalCode": "80927",
+      "city": "Colorado Springs",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -29,21 +29,28 @@
   },
   "interests": [
     {
-      "name": "Internet of Things",
+      "name": "Full-Stack Software Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "full-stack",
+        "software"
       ]
     },
     {
-      "name": "Automation",
+      "name": "Extreme Programming",
       "keywords": [
+        "agile",
+        "XP",
+        "Extreme Programming"
       ]
     },
     {
-      "name": "Cyber Security",
+      "name": "Technical Problem Solving",
       "keywords": [
-        "networking"
+        "technical",
+        "problem-solving",
+        "problem",
+        "solving",
+        "hands-on"
       ]
     }
   ],
@@ -52,16 +59,19 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "JavaScript",
+        "TypeScript",
+        "React",
         "Java",
-        "Javascript",
-        "Legv8 Assembly",
-        "Python",
+        "JUnit",
+        "cucumber",
         "HTML",
         "CSS",
+        "C",
+        "C++",
+        "Legv8 Assembly",
+        "Python",
         "semantic UI",
-        "React",
         "Meteor"
       ]
     },
@@ -69,10 +79,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Git",
+        "GitLab",
+        "GitHub",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
         "Windows 10",
         "Kali Linux"
       ]
