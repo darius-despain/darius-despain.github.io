@@ -103,8 +103,8 @@
     },
     {
       "institution": "Galvanize Inc, Remote",
-      "area": "Agile Software Product Management Bootcamp",
-      "studyType": "",
+      "area": "Agile Software Product Management",
+      "studyType": "Bootcamp",
       "startDate": "2023-09-01",
       "endDate": "2023-12-01",
       "gpa": "",
@@ -114,8 +114,8 @@
     },
     {
       "institution": "Galvanize Inc, Remote",
-      "area": "Software Development Immersive Bootcamp",
-      "studyType": "",
+      "area": "Software Development Immersive",
+      "studyType": "Bootcamp",
       "startDate": "2022-04-26",
       "endDate": "2022-07-15",
       "gpa": "",
@@ -142,7 +142,7 @@
     {
       "institution": "Air Force Institute of Technology",
       "area": "Advanced Cyber Education",
-      "studyType": "",
+      "studyType": "Bootcamp",
       "startDate": "2018-07-01",
       "endDate": "2018-08-01",
       "gpa": "",
