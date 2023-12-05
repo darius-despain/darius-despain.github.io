@@ -16,11 +16,9 @@ labels:
 summary: A dashboard-based task management tool my team and I created for our Capstone project in our Software Development Immersive Bootcamp by Galvanize.
 ---
 
-# Taskify
-
 ## Overview
 
-Taskify is a dashboard-based task management tool which simplifies task tracking and streamlines Weekly Activity Reporting for units and individuals. Depending on their role(s), users can view, filter, create, update, delete, and assign tasks in a one-stop-shop.
+Taskify is a dashboard-based task management tool which simplifies task tracking and streamlines Weekly Activity Reporting for units and individuals. Depending on their role(s), users can view, filter, create, update, delete, and assign tasks in a one-stop-shop. You can view the codebase at [our github page](#https://github.com/TheFreshTulips/capstone)
 
 ## Developers
 
