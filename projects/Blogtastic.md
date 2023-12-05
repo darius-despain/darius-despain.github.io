@@ -31,7 +31,7 @@ author: Darius DeSpain (gihub user: darius-despain)
     1. [Setup Troubleshooting](#setup-troubleshooting)
 
 ## Introduction:
-This project is a submission for the Z-Prefix CRUD application. The prompt details are listed in the [Prompt Details](#prompt-details) section.
+This project is a submission for the Z-Prefix CRUD application. The prompt details are listed in the [Prompt Details](#prompt-details) section. The github repo is located [here](https://github.com/darius-despain/z-prefix-app).
 
 ## Prompt Details:
 ### Requirements:
