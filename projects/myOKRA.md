@@ -9,7 +9,6 @@ date: 2023-12-01
 labels:
   - Product Management
   - Agile Ceremonies
-  -
 summary: An Objectives and Key Results (OKRs) tool I was a Product Manager for during my Product Management bootcamp by Galvanize. The developers who worked on this project were from a sister bootcamp for software development.
 ---
 
