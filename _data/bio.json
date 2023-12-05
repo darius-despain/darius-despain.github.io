@@ -6,7 +6,7 @@
     "email": "darius.despain@gmail.com",
     "phone": "",
     "website": "https://darius-despain.github.io",
-    "summary": "I am a transitioning servicemember who is seeking a skillbridge internship followed by employment in the role of Full-Stack Software Developer/Engineer. I am relocating to Fort Collins, CO for my skillbridge to live with my wife, and am looking for remote or hybrid opportunities that support this location.",
+    "summary": "Transitioning Servicemember who has a passion for solving technical problems. Seeking a Remote or Hybrid Full-Stack Software Engineer role. Seeking Skillbridge start date of 28 May 2024, and a permanent role start date of 24 Oct 2024. Active TS/SCI. Relocating to Fort Collins, CO",
     "location": {
       "address": "9173 Castlebear Dr",
       "postalCode": "80927",
@@ -91,34 +91,101 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2020)",
-      "studyType": "B.S.",
-      "startDate": "2015-08-24",
+      "institution": "Drexel University, Remote",
+      "area": "Software Engineering (expected Spring, 2027)",
+      "studyType": "M.S.",
+      "startDate": "2023-09-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Digital Systems & Computer Design",
+        "Agile Software Development (Java with Extreme Programming)"
+      ]
+    },
+    {
+      "institution": "Galvanize Inc, Remote",
+      "area": "Agile Software Product Management Bootcamp",
+      "studyType": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "gpa": "",
+      "courses": [
+        "Topics: Agile ceremonies, Roadmaps, Product Vision, OKRs/KPIs etc."
+      ]
+    },
+    {
+      "institution": "Galvanize Inc, Remote",
+      "area": "Software Development Immersive Bootcamp",
+      "studyType": "",
+      "startDate": "2022-04-26",
+      "endDate": "2022-07-15",
+      "gpa": "",
+      "courses": [
+        "Topics: JavaScript, NodeJS, React, ExpressJS, PostgreSQL, Agile, TDD"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-08-24",
+      "endDate": "2020-05-15",
+      "gpa": "3.43",
+      "courses": [
+        "Software Engineering 1",
         "Discrete Math",
         "Programming for Engineers",
         "Object Oriented Programming",
         "Data Structures & Algorithms",
-        "Operating Systems"
+        "Software Reverse Engineering"
+      ]
+    },
+    {
+      "institution": "Air Force Institute of Technology",
+      "area": "Advanced Cyber Education",
+      "studyType": "",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "gpa": "",
+      "courses": [
+        "Topics: Network Defense, Pen. Testing, Digital Forensics, Cryptography"
       ]
     }
   ],
   "work": [
     {
-      "company": "Air Force ROTC",
-      "position": "Contracted Senior Cadet",
-      "website": "http://manoa.hawaii.edu/undergrad/aerospace/",
-      "startDate": "2015-08-24",
+      "company": "Combat Development Team, Delta 8, USSF",
+      "position": "OIC, Software Development",
+      "website": "",
+      "startDate": "2022-11-01",
       "endDate": "Present",
-      "summary": "Training to become an officer in  the United States Air Force",
+      "summary": "Full-Stack Developer and assists the CDT director in managing our software portfolio.",
       "highlights": [
-        "AFROTC Type 1 Commander In-College Scholarship ",
-        "Develop plans and execute training for new cadets",
-        "Hone professionalism in preparation of becoming an officer"
+        "Tech stack: TypeScript/NodeJS/React/Express/MongoDB & Couch DB",
+        "Products: MOR Tool, COMET"
+      ]
+    },
+    {
+      "company": "Space CAMP, USSF",
+      "position": "Software Development Intern",
+      "website": "https://spacecamp.il2.dso.mil/#/home",
+      "startDate": "2022-07-15",
+      "endDate": "2022-11-01",
+      "summary": "Full-Stack Developer assigned to the MOR Tool product team",
+      "highlights": [
+        "Tech stack: TypeScript/NodeJS/React/Express/CouchDB",
+        "Products: MOR Tool"
+      ]
+    },
+    {
+      "company": "4th Space Operations Squadron, USSF",
+      "position": "Satellite Engineer",
+      "website": "",
+      "startDate": "2020-11-04",
+      "endDate": "2022-04-27",
+      "summary": "Identified and coordinated preventative and reactive maintenance actions on 11 protected military communications satellites.",
+      "highlights": [
+        "Led working-groups to trend satellite health and potential preventative actions",
+        "on-call engineering support for 4SOPS operators"
       ]
     },
     {
@@ -137,31 +204,29 @@
   ],
   "volunteer": [
     {
-      "organization": "Arnold Air Society",
-      "website": "https://aas-sw.org",
+      "organization": "FIRST",
+      "website": "https://www.firstinspires.org/",
       "position": "Various Positions",
-      "startDate": "2016-01-15",
+      "startDate": "2015-06-30",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Organization has STEM programs for K-12 students to create excitement and experience in the realm of technical problem solving",
       "highlights": [
-        "National Chief of Protocol Executive Officer, Apr 2019 - present",
-        "National Conclave HQ Chief of Protocol, Nov 2018 - Apr 2019",
-        "Area-Region Conclave 11 Vice Commander, Apr 2018 - Oct 2018",
-        "National Chief of Protocol Executive Officer, Oct 2017 - Apr 2018",
-        "Area-Region 11 Chief of Protocol, Apr 2017 - Oct 2017"
+        "Mentor, FIRST Robotics Team 4068, Aug 2021 - Present",
+        "Mentor, FIRST Robotics Team 3008, Jun 2015 - Apr 2018",
+        "Various volunteer positions at local FIRST events"
       ]
     }
   ],
   "awards": [
     {
       "title": "AFROTC Type 1 Commander In-College Scholarship",
-      "date": "2016-Present",
+      "date": "2016-2020",
       "awarder": "AFROTC",
       "summary": "Scholarship awarded to cadets who show the greatest officer potential and success in their academic career."
     },
     {
       "title": "Chancellor's Scholarship",
-      "date": "2015-Present",
+      "date": "2015-2019",
       "awarder": "University of Hawaii",
       "summary": "Scholarship Awarded to incoming freshmen from Hawaii based upon high school GPA, test scores, and extra curricular activities."
     }
