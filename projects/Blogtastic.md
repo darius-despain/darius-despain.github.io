@@ -15,8 +15,6 @@ labels:
 summary: A simple full-stack blog app created for my Z-Prefix assessment submission in our Software Development Immersive Bootcamp by Galvanize.
 ---
 
-# Blogtastic, a Z-Prefix application
-
 author: Darius DeSpain (gihub user: darius-despain)
 ## Table of Contents
 1. [Introduction](#introduction)
