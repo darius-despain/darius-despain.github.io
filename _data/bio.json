@@ -98,7 +98,8 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Agile Software Development (Java with Extreme Programming)"
+        "Agile Software Development (Java with Extreme Programming)",
+        "Projects: Blogtastic, Taskify"
       ]
     },
     {
@@ -109,7 +110,8 @@
       "endDate": "2023-12-01",
       "gpa": "",
       "courses": [
-        "Topics: Agile ceremonies, Roadmaps, Product Vision, OKRs/KPIs etc."
+        "Topics: Agile ceremonies, Roadmaps, Product Vision, OKRs/KPIs etc.",
+        "Projects: myOKRA"
       ]
     },
     {
