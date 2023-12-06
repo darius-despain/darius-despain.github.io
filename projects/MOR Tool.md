@@ -21,7 +21,8 @@ a tool I helped build for the 4th Space Operations Squadron (4 SOPS) under Space
 
 # Screenshot
 * Note that all data shown in notional only for the staging environment, not real world data
-![MOR Tool Screenshot](../images/MOR_tool.png)
+<img src="../images/MOR_tool.png" altText="MOR Tool Screenshot" width="50vw"/>
+
 
 # Hosting Platform
 The MOR Tool is hosted on another application called Genesis, which is a mission planning tool for the USSF. Genesis is hosted on a platform as a service called PartyBus on Platform One, a DoD organization dedicated to hosting DoD software.
