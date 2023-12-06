@@ -19,8 +19,8 @@ summary: a crew scheduling tool I helped build for the USSF. It is meant to enab
 a crew scheduling tool I helped build for the USSF. It is meant to enable crew schedulers to do their job quickly and provide transparency and control to crew members so they can make schedule change requests and provide easy visibility for complete schedules with red/green indicators for shifts.
 
 # Screenshot
-* Note that all data shown in notional only for the staging environment, not real world data
-<img src="../images/COMET.png" altText="COMET Screenshot" width="50vw"/>
+Note that all data shown in notional only for the staging environment, not real world data
+<img src="../images/COMET.png" altText="COMET Screenshot" width="75%"/>
 
 # Hosting Platform
 COMET is hosted on a platform as a service called PartyBus on Platform One, a DoD organization dedicated to hosting DoD software.

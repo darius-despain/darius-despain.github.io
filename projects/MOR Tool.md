@@ -20,8 +20,9 @@ summary: a tool I helped build for the 4th Space Operations Squadron (4 SOPS) un
 a tool I helped build for the 4th Space Operations Squadron (4 SOPS) under Space Delta 8 that digitized their internal maintenace requests called MILSATCOM Operations Requests (MORs) for coordination and helped visualize overlapping requests. The tool is now being used on the 4 SOPS operations floor.
 
 # Screenshot
-* Note that all data shown in notional only for the staging environment, not real world data
-<img src="../images/MOR_tool.png" altText="MOR Tool Screenshot" width="50vw"/>
+Note that all data shown in notional only for the staging environment, not real world data
+</br>
+<img src="../images/MOR_tool.png" altText="MOR Tool Screenshot" width="75%"/>
 
 
 # Hosting Platform
