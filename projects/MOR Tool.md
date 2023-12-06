@@ -21,7 +21,7 @@ a tool I helped build for the 4th Space Operations Squadron (4 SOPS) under Space
 
 # Screenshot
 Note that all data shown in notional only for the staging environment, not real world data
-</br>
+
 <img src="../images/MOR_tool.png" altText="MOR Tool Screenshot" width="75%"/>
 
 
