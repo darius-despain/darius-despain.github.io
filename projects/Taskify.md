@@ -14,6 +14,7 @@ labels:
   - ExpressJS
   - Knex
 summary: A dashboard-based task management tool my team and I created for our Capstone project in our Software Development Immersive Bootcamp by Galvanize.
+projecturl: https://github.com/darius-despain/EE205FinalProject
 ---
 
 ## Overview
@@ -79,7 +80,8 @@ After logging in, a user can see everything of immediate interest to them. Simil
 
     When a user clicks the [View Details](#task-details) button on a Task Card, they can see additional information and edit fields depending on their role.
 
-![alt text](https://i.ibb.co/JxkFyXg/Dashboard.png "Dashboard")
+<img src="../images/taskify_dashboard.png" altText="Taskify dashboard Screenshot" width="75%"/>
+
 
 ### Header
 The Header contains various navigation links: Unit Tasks, Reports, Archive, Profile, and Admin (if the user is an Admin). The Taskify link navigates back to the user's home Dashboard.
