@@ -14,7 +14,7 @@ labels:
   - ExpressJS
   - Knex
 summary: A dashboard-based task management tool my team and I created for our Capstone project in our Software Development Immersive Bootcamp by Galvanize.
-projecturl: https://github.com/darius-despain/EE205FinalProject
+projecturl: https://github.com/TheFreshTulips/capstone
 ---
 
 ## Overview
