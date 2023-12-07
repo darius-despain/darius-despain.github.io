@@ -13,6 +13,7 @@ labels:
   - ExpressJS
   - Knex
 summary: A simple full-stack blog app created for my Z-Prefix assessment submission in our Software Development Immersive Bootcamp by Galvanize.
+projecturl: https://github.com/darius-despain/z-prefix-app
 ---
 
 author: Darius DeSpain (gihub user: darius-despain)
