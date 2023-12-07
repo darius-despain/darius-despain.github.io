@@ -21,7 +21,7 @@ a crew scheduling tool I helped build for the USSF. It is meant to enable crew s
 # Screenshot
 Note that all data shown in notional only for the staging environment, not real world data
 
-<img src="../images/COMET.png" altText="COMET Screenshot" width="75%"/>
+<img src="../images/COMET.png" altText="COMET Screenshot" width="85%"/>
 
 # Hosting Platform
 COMET is hosted on a platform as a service called PartyBus on Platform One, a DoD organization dedicated to hosting DoD software.
