@@ -10,7 +10,7 @@
     "location": {
       "address": "4986 Denys Dr",
       "postalCode": "80547",
-      "city": "Fort Collins",
+      "city": "Timnath",
       "countryCode": "USA",
       "region": "Colorado"
     },
@@ -126,11 +126,23 @@
   ],
   "work": [
     {
+      "company": "Rise8",
+      "position": "Skillbridge Intern - Software Engineer",
+      "website": "https://rise8.us",
+      "startDate": "2024-05-28",
+      "endDate": "Present",
+      "summary": "Internship through DoD SkillBridge program while I transition out of Active Duty. Area of focus during internship is software engineering to grow software development skills.",
+      "highlights": [
+        "Tech stack: TypeScript/Node.js/React/NextJS/Java/Kotlin/SpringBoot/Keycloak/MySQL",
+        "Products: Tracer, Surefire"
+      ]
+    },
+    {
       "company": "Combat Development Team, Delta 8, USSF",
       "position": "OIC, Software Development",
       "website": "",
       "startDate": "2022-11-01",
-      "endDate": "Present",
+      "endDate": "2024-05-23",
       "summary": "Full-Stack Developer and assists the CDT director in managing our software portfolio.",
       "highlights": [
         "Tech stack: TypeScript/NodeJS/React/Express/MongoDB & Couch DB",
