@@ -1,38 +1,40 @@
 {
   "basics": {
     "name": "Darius DeSpain",
-    "label": "Software Engineer | Transitioning Servicemember",
+    "label": "Software Engineer | Transitioning Servicemember | Active TS/SCI",
     "picture": "https://darius-despain.github.io/images/portrait_square.jpg",
     "email": "darius.despain@gmail.com",
-    "phone": "",
+    "phone": "808-754-9454",
     "website": "https://darius-despain.github.io",
-    "summary": "Transitioning Servicemember who has a passion for solving technical problems. Seeking a Remote or Hybrid Full-Stack Software Engineer role. Seeking Skillbridge start date of 28 May 2024, and a permanent role start date of 24 Oct 2024. Active TS/SCI. Relocating to Fort Collins, CO",
+    "summary": "Transitioning Servicemember who has a passion for solving technical problems. Seeking a Remote or Hybrid Full-Stack Software Engineer role in the Northern Colorado Region. Seeking full-time position start date of 28 October 2024. Active TS/SCI",
     "location": {
-      "address": "9173 Castlebear Dr",
-      "postalCode": "80927",
-      "city": "Colorado Springs",
+      "address": "4986 Denys Dr",
+      "postalCode": "80547",
+      "city": "Fort Collins",
       "countryCode": "USA",
       "region": "Colorado"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "darius-despain",
-        "url": "http://github.com/darius-despain"
-      },
-      {
         "network": "linkedin",
         "username": "darius-despain",
         "url": "https://www.linkedin.com/in/darius-despain/"
+      },
+      {
+        "network": "github",
+        "username": "darius-despain",
+        "url": "http://github.com/darius-despain"
       }
     ]
   },
   "interests": [
     {
-      "name": "Full-Stack Software Development",
+      "name": "Full-Stack Software Engineering",
       "keywords": [
         "full-stack",
-        "software"
+        "software",
+        "Software Development",
+        "Software Engineer"
       ]
     },
     {
@@ -40,7 +42,8 @@
       "keywords": [
         "agile",
         "XP",
-        "Extreme Programming"
+        "Extreme Programming",
+        "Clean Code"
       ]
     },
     {
@@ -56,49 +59,82 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "JavaScript",
         "TypeScript",
-        "React",
         "Java",
-        "JUnit",
-        "cucumber",
+        "Kotlin",
         "HTML",
         "CSS",
         "C",
         "C++",
+        "mySQL",
+        "postgreSQL",
         "Legv8 Assembly",
         "Python",
-        "semantic UI",
-        "Meteor"
+        "Svelte",
+        "SvelteKit"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Technologies",
       "level": "",
       "keywords": [
+        "Gradle",
+        "MongoDB",
+        "CouchDB",
+        "ExpressJS",
+        "NextJS",
+        "Git Hooks",
+        "playwright",
+        "cypress",
+        "JUnit",
+        "React Testing Library",
+        "cucumber",
+        "NodeJS",
+        "React",
+        "Foritfy",
+        "Anchor",
+        "ArgoCD",
+        "SD Elements",
+        "GitHub actions",
+        "Gitlab CI/CD pipelines",
+        "Intellij Idea",
+        "VS Code",
+        "AWS ECR",
+        "AWS EC2",
+        "Keycloak",
+        "bcrypt",
         "Git",
+        "cmake",
+        "Docker Desktop",
+        "Docker CLI",
+        "Docker Compose",
+        "Sonarqube",
         "GitLab",
         "GitHub",
         "MacOS",
         "Ubuntu",
         "Windows 10",
-        "Kali Linux"
+        "Kali Linux",
+        "semantic UI",
+        "Meteor"
       ]
     }
   ],
   "education": [
     {
       "institution": "Drexel University, Remote",
-      "area": "Software Engineering (expected Spring, 2027)",
+      "area": "Software Engineering (expected graduation: Spring, 2027)",
       "studyType": "M.S.",
       "startDate": "2023-09-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
         "Agile Software Development (Java with Extreme Programming)",
+        "Software Design",
         "Projects: Blogtastic, Taskify"
       ]
     },
@@ -108,7 +144,7 @@
       "studyType": "Bootcamp",
       "startDate": "2023-09-01",
       "endDate": "2023-12-01",
-      "gpa": "",
+      "gpa": "N/A",
       "courses": [
         "Topics: Agile ceremonies, Roadmaps, Product Vision, OKRs/KPIs etc.",
         "Projects: myOKRA"
@@ -120,7 +156,7 @@
       "studyType": "Bootcamp",
       "startDate": "2022-04-26",
       "endDate": "2022-07-15",
-      "gpa": "",
+      "gpa": "N/A",
       "courses": [
         "Topics: JavaScript, NodeJS, React, ExpressJS, PostgreSQL, Agile, TDD"
       ]
@@ -147,7 +183,7 @@
       "studyType": "Bootcamp",
       "startDate": "2018-07-01",
       "endDate": "2018-08-01",
-      "gpa": "",
+      "gpa": "N/A",
       "courses": [
         "Topics: Network Defense, Pen. Testing, Digital Forensics, Cryptography"
       ]
@@ -213,7 +249,7 @@
       "endDate": "Present",
       "summary": "Organization has STEM programs for K-12 students to create excitement and experience in the realm of technical problem solving",
       "highlights": [
-        "Mentor, FIRST Robotics Team 4068, Aug 2021 - Present",
+        "Mentor, FIRST Robotics Team 4068, Aug 2021 - Apr 2023",
         "Mentor, FIRST Robotics Team 3008, Jun 2015 - Apr 2018",
         "Various volunteer positions at local FIRST events"
       ]
