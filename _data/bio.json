@@ -88,11 +88,11 @@
         "ExpressJS",
         "NextJS",
         "Git Hooks",
-        "playwright",
+        "Playwright",
         "cypress",
         "JUnit",
         "React Testing Library",
-        "cucumber",
+        "Cucumber",
         "NodeJS",
         "React",
         "Foritfy",
@@ -108,7 +108,7 @@
         "Keycloak",
         "bcrypt",
         "Git",
-        "cmake",
+        "CMake",
         "Docker Desktop",
         "Docker CLI",
         "Docker Compose",
@@ -119,7 +119,7 @@
         "Ubuntu",
         "Windows 10",
         "Kali Linux",
-        "semantic UI",
+        "Semantic UI",
         "Meteor"
       ]
     }
@@ -134,7 +134,11 @@
       "summary": "Internship through DoD SkillBridge program while I transition out of Active Duty. Area of focus during internship is software engineering to grow software development skills.",
       "highlights": [
         "Tech stack: TypeScript/Node.js/React/NextJS/Java/Kotlin/SpringBoot/Keycloak/MySQL",
-        "Products: Tracer, Surefire"
+        "Products: Tracer, Surefire",
+        "- Set up the entire acceptance testing environment using Playwright and a docker-compose file",
+        "- Implemented 5+ full-stack stories to add features to Tracer including create your system wizard, manage your workspace, upload a CSV exported from eMass, and a multi-layered table for viewing control hierarchy using MUI DataGrid Pro",
+        "- Assisted in reconfiguring and troubleshooting environment variable configuration for staging and multiple production environments, changing to injecting environment variables at run-time",
+        "- Converted over 10 JavaScript files to TypeScript to better catch errors on the UI"
       ]
     },
     {
@@ -143,10 +147,12 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-      "summary": "Full-Stack Developer and assists the CDT director in managing our software portfolio.",
+      "summary": "Responsible for leading the software development team at Space Delta 8 (Del 8), designing and implementing software to enable the warfighters at Del 8, and assisting the CDT director in program management for Del 8's software portfolio.",
       "highlights": [
         "Tech stack: TypeScript/NodeJS/React/Express/MongoDB & Couch DB",
-        "Products: MOR Tool, COMET"
+        "Products: MOR Tool, COMET",
+        "- Digitized operations requests with MOR tool, launching organization's first in-house software. Led 10 stakeholder meetings, wrote 5 key features, eliminating hard copies for approved requests resulting in being awarded Junior Officer of Q1/2023",
+        "- converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of Palantir Foundry"
       ]
     },
     {
@@ -158,7 +164,8 @@
       "summary": "Full-Stack Developer assigned to the MOR Tool product team",
       "highlights": [
         "Tech stack: TypeScript/NodeJS/React/Express/CouchDB",
-        "Products: MOR Tool"
+        "Products: MOR Tool",
+        "Big wins: Developed 2 major features for the MOR tool including a rich text editor and legacy PDF generator; enabled tool integration for 100 new users."
       ]
     },
     {
