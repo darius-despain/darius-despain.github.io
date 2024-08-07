@@ -33,7 +33,7 @@
           {% endif %}
           {% if entry.endDate %}
             {% if entry.endDate != "Present" %}
-              {{ datetime.fromisoformat(entry.endDate)|date:'N Y' }}
+              {{ datetime.datetime.fromisoformat(entry.endDate)|date:'N Y' }}
             {% else %}
               {{ entry.endDate }}
             {% endif %}
