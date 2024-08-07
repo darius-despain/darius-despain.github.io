@@ -26,7 +26,7 @@
       <div class="four wide right aligned column no-bottom">
         <p class="ui no-bottom"><b>
           {% if entry.startDate %}
-          {{ datetime.fromisoformat(entry.startDate)|date:'N Y' }}
+          {{ datetime.datetime.now()|date:'N Y' }}
           {% endif %}
           {% if entry.startDate and entry.endDate %}
           -
