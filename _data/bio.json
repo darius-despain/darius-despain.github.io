@@ -122,6 +122,21 @@
         "Semantic UI",
         "Meteor"
       ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Pair Programming",
+        "lead meetings",
+        "Agile ceremonies",
+        "public speaking",
+        "problem-solving",
+        "Agile product management",
+        "change management",
+        "mentoring"
+      ]
+
     }
   ],
   "work": [
@@ -262,6 +277,18 @@
   
   "volunteer": [
     {
+      "organization": "Air and Space Forces Association",
+      "website": "https://www.afa.org/",
+      "position": "Various Positions",
+      "startDate": "2016-06-30",
+      "endDate": "Present",
+      "summary": "Professional military and aerospace education association in support of the Air and Space Forces",
+      "highlights": [
+        "Event Protocol Deputy for Warfare Symposiums and Air Space and Cyber Conferences, Sep 2019 - Present",
+        "Member, Jan 2016 - Present"
+      ]
+    },
+    {
       "organization": "FIRST",
       "website": "https://www.firstinspires.org/",
       "position": "Various Positions",
@@ -274,20 +301,7 @@
         "Various volunteer positions at local FIRST events"
       ]
     }
-  ],
-  "awards": [
-    {
-      "title": "AFROTC Type 1 Commander In-College Scholarship",
-      "date": "2016-2020",
-      "awarder": "AFROTC",
-      "summary": "Scholarship awarded to cadets who show the greatest officer potential and success in their academic career."
-    },
-    {
-      "title": "Chancellor's Scholarship",
-      "date": "2015-2019",
-      "awarder": "University of Hawaii",
-      "summary": "Scholarship Awarded to incoming freshmen from Hawaii based upon high school GPA, test scores, and extra curricular activities."
-    }
+
   ],
   "references": [
     {
