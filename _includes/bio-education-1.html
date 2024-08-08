@@ -24,14 +24,14 @@
     <div class="four wide right aligned column no-bottom">
       <p class="ui no-bottom"><b>
         {% if entry.startDate %}
-        {{ datetime.fromisoformat(entry.startDate) | date:'N Y' }}
+        {{ entry.startDate | date: "%b %Y"  }}
         {% endif %}
         {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
         -
         {% endif %}
         {% if entry.endDate %}
           {% if entry.endDate != "Present" %}
-            {{ datetime.fromisoformat(entry.endDate) | date:'N Y' }}
+            {{ entry.endDate | date: "%b %Y"  }}
           {% else %}
             {{ entry.endDate }}
           {% endif %}
