@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Darius DeSpain",
-    "label": "Software Engineer | Transitioning Servicemember | Active TS/SCI",
+    "label": "Software Engineer | Transitioning Servicemember | Active TS/SCI Security Clearance",
     "picture": "https://darius-despain.github.io/images/portrait_square.jpg",
     "email": "darius.despain@gmail.com",
     "phone": "808-754-9454",
     "website": "https://darius-despain.github.io",
-    "summary": "Transitioning Servicemember who has a passion for solving technical problems. Seeking a Remote or Hybrid Full-Stack Software Engineer role in the Northern Colorado Region. Seeking full-time position start date of 28 October 2024. Active TS/SCI",
+    "summary": "Transitioning Servicemember who has a passion for solving technical problems and creating quality software to improve the lives of others and make data driven decisions. Seeking a Remote or Hybrid Full-Stack Software Engineer role in the Northern Colorado Region. Seeking full-time position start date of 28 October 2024. Active TS/SCI",
     "location": {
       "address": "4986 Denys Dr",
       "postalCode": "80547",
@@ -59,7 +59,7 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "JavaScript",
@@ -121,7 +121,8 @@
         "Kali Linux",
         "Semantic UI",
         "Meteor",
-        "Palantir Foundry"
+        "Palantir Foundry",
+        "React Redux"
       ]
     },
     {
@@ -135,7 +136,11 @@
         "problem-solving",
         "Agile product management",
         "change management",
-        "mentoring"
+        "mentoring",
+        "Communication",
+        "Collaboration",
+        "Reliability",
+        "Dedicated"
       ]
 
     }
@@ -143,17 +148,17 @@
   "work": [
     {
       "company": "Rise8",
-      "position": "Skillbridge Intern - Software Engineer",
+      "position": "Software Engineer (SkillBridge)",
       "website": "https://rise8.us",
       "startDate": "2024-05-28",
       "endDate": "Present",
-      "summary": "Internship through DoD SkillBridge program while I transition out of Active Duty. Area of focus during internship is software engineering to grow software development skills",
+      "summary": "Area of focus is software engineering to grow technical software development skills, specifically Full-Stack (Front End and Back End) Development. Position is through the DoD SkillBridge program while transitioning from Active Duty to civilian life",
       "highlights": [
         "Tech stack: TypeScript/Node.js/React/NextJS/Java/Kotlin/SpringBoot/Keycloak/MySQL",
         "Products: Tracer, Surefire",
-        "- Set up the entire acceptance testing environment using Playwright and a docker-compose file",
+        "- Architected and implemented the entire acceptance testing environment using Playwright and a docker-compose file",
         "- Implemented 5+ full-stack stories to add features to Tracer including create your system wizard, manage your workspace, upload a CSV exported from eMass, and a multi-layered table for viewing control hierarchy using MUI DataGrid Pro",
-        "- Assisted in reconfiguring and troubleshooting environment variable configuration for staging and multiple production environments, changing to injecting environment variables at run-time",
+        "- Reconfigured and troubleshooted environment variable configuration for staging and multiple production environments, changing to injecting environment variables at run-time",
         "- Converted over 10 JavaScript files to TypeScript to better catch errors on the UI"
       ]
     },
@@ -163,23 +168,23 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-      "summary": "Responsible for leading the software development team at Space Delta 8 (Del 8), designing and implementing software to enable the warfighters at Del 8, and assisting the CDT director in program management for Del 8's software portfolio",
+      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and technical tools into their daily lives, and assisting the CDT director in program management for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
       "highlights": [
-        "Tech stack: TypeScript/NodeJS/React/Express/MongoDB & Couch DB",
+        "Tech stack: TypeScript/NodeJS/React/Redux/Express/MongoDB & Couch DB",
         "Products: MOR Tool, COMET",
-        "- Digitized operations requests with MOR tool, launching organization's first in-house software. Led 10 stakeholder meetings, wrote 5 key features, eliminating hard copies for approved requests resulting in being awarded Junior Officer of Q1/2023",
+        "- Digitized operations requests with MOR tool, launching organization's first in-house software. Chaired 10 stakeholder meetings, created 5 key features, eliminating hard copies for approved requests resulting in being awarded Junior Officer of Q1/2023",
         "- converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of Palantir Foundry, using Workshop, custom typescript functions, Pipeline Builder, Ontology, and Datasets"
       ]
     },
     {
       "company": "Space CAMP, USSF",
-      "position": "Software Development Intern",
+      "position": "Full-Stack Software Developer",
       "website": "https://spacecamp.il2.dso.mil/#/home",
       "startDate": "2022-07-15",
       "endDate": "2022-11-01",
-      "summary": "Full-Stack Developer assigned to the MOR Tool product team",
+      "summary": "Full-Stack Developer assigned to the MOR Tool product team responsible for technical implementation for our application",
       "highlights": [
-        "Tech stack: TypeScript/NodeJS/React/Express/CouchDB",
+        "Tech stack: TypeScript/NodeJS/React/Redux/Express/CouchDB",
         "Products: MOR Tool",
         "Big wins: Developed 2 major features for the MOR tool including a rich text editor and legacy PDF generator; enabled tool integration for 100 new users"
       ]
@@ -192,7 +197,7 @@
       "endDate": "2022-04-27",
       "summary": "Identified and coordinated preventative and reactive maintenance actions on 11 protected military communications satellites",
       "highlights": [
-        "Led working-groups to trend satellite health and potential preventative actions",
+        "Chaired working-groups to trend satellite health and potential preventative actions",
         "on-call engineering support for 4SOPS operators"
       ]
     }
@@ -242,12 +247,13 @@
       "endDate": "2020-05-15",
       "gpa": "3.43",
       "courses": [
-        "Software Engineering 1",
+        "Software Engineering 1 (JavaScript)",
         "Discrete Math",
-        "Programming for Engineers",
-        "Object Oriented Programming",
+        "Programming for Engineers (C)",
+        "Object Oriented Programming (C++)",
         "Data Structures & Algorithms",
-        "Software Reverse Engineering"
+        "Software Reverse Engineering (C)",
+        "Various Computer Science and Computer Engineering courses"
       ]
     },
     {
