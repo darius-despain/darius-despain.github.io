@@ -6,16 +6,20 @@
     <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
   </div>
 
-  <div class="sixteen wide column">
-    <h4 class="ui center aligned header">{{ site.data.bio.basics.label }}</h4>    
-  </div>
-
-  <div class="eight wide left aligned column">
+  <div class="four wide left aligned column">
     {% include bio-network-links.html %}
   </div>
 
-  <div class="eight wide right aligned column">
+  <div class="eight wide column">
+    <h4 class="ui center aligned header">{{ site.data.bio.basics.label }}</h4>    
+  </div>
+
+  <div class="four wide right aligned column">
     {% include bio-address.html %}
+  </div>
+
+  <div class="sixteen wide center aligned column">
+    <h5>{{ site.data.bio.basics.summary }}</h5>
   </div>
 </div>
 
