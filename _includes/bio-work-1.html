@@ -10,20 +10,39 @@
     {% for entry in site.data.bio.work %}
 
     <div class="ui grid">
-      <div class="twelve wide column no-bottom">
+      <div class="fourteen wide column no-bottom">
         <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
-          }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
+
         {% if entry.highlights %}
-        <ul style="margin: 0px;">
-          {% for highlight in entry.highlights %}
-          <li>{{ highlight }}</li>
-          {% endfor %}
-        </ul>
+          <ul style="margin: 0px; padding-left: 15px">
+            {% for highlight in entry.highlights %}
+            <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if entry.skills %}
+          <p class="ui no-bottom">
+            <u>Technologies/Skills</u>: 
+
+            {% for skill in entry.skills %}
+              {{ skill }}{% if forloop.last != true %}, {% endif %}
+            {% endfor %}
+          </p>
+        {% endif %}
+
+        {% if entry.projects %}
+          <p class="ui no-bottom">
+            <u>Projects</u>: 
+
+            {% for project in entry.projects %}
+              {{ project }}{% if forloop.last != true %}, {% endif %}
+            {% endfor %}
+          </p>
         {% endif %}
       </div>
-      <div class="four wide right aligned column no-bottom">
+      <div class="two wide right aligned column no-bottom">
         <p class="ui no-bottom"><b>
           {% if entry.startDate %}
             {{ entry.startDate | date: "%b %Y" }}

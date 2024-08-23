@@ -10,18 +10,29 @@
   {% for entry in site.data.bio.education %}
 
   <div class="ui grid">
-    <div class="twelve wide column no-bottom">
+    <div class="fourteen wide column no-bottom">
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
       <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
-      {% if entry.courses %}
-      <ul style="margin: 0px;">
-        {% for course in entry.courses %}
-        <li>{{ course }}</li>
+      {% if entry.projects %}
+        <u>Projects: </u>
+        
+        {% for project in entry.projects %}
+          {{ project }}{% if forloop.last != true %}, {% endif %}
         {% endfor %}
-      </ul>
+      </br>
       {% endif %}
+
+      {% if entry.topics %}
+        <u>Topics: </u>
+      
+        {% for topic in entry.topics %}
+          {{ topic }}{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+      
+      {% endif %}
+      
     </div>
-    <div class="four wide right aligned column no-bottom">
+    <div class="two wide right aligned column no-bottom">
       <p class="ui no-bottom"><b>
         {% if entry.startDate %}
         {{ entry.startDate | date: "%b %Y"  }}

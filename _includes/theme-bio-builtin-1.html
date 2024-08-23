@@ -6,28 +6,28 @@
     <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
   </div>
 
-  <div class="four wide left aligned column">
+  <div class="four wide left aligned column no-bottom">
     {% include bio-network-links.html %}
   </div>
 
-  <div class="eight wide column">
-    <h4 class="ui center aligned header">{{ site.data.bio.basics.label }}</h4>    
+  <div class="eight wide column no-bottom">
+    <h5 class="ui center aligned header">{{ site.data.bio.basics.label }}</h5>    
   </div>
 
-  <div class="four wide right aligned column">
+  <div class="four wide right aligned column no-bottom">
     {% include bio-address.html %}
   </div>
 
-  <div class="sixteen wide center aligned column">
+  <div class="sixteen wide center aligned column no-bottom">
     <h5>{{ site.data.bio.basics.summary }}</h5>
   </div>
 </div>
 
 <div style="margin-bottom: 20px" class="ui stackable grid container">
   {% include bio-interests-1.html %}
-  {% include bio-skills-1.html %}
   {% include bio-work-1.html %}
   {% include bio-education-1.html %}
+  {% include bio-skills-1.html %}
   {% include bio-volunteer-1.html %}
   {% include bio-publications-1.html %}
   {% include bio-awards-1.html %}
