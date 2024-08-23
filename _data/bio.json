@@ -81,11 +81,11 @@
   "work": [
     {
       "company": "Rise8",
-      "position": "Software Engineer (SkillBridge)",
+      "position": "Software Engineer",
       "website": "https://rise8.us",
       "startDate": "2024-05-28",
       "endDate": "Present",
-      "summary": "Software Engineer responsible delivering outcomes in production through Full Stack Development on Web Applications. Collaborated with the product team to enhance software User Experiences through pair programming, problem-solving, communication, SW Design, participating in and occasionally facilitating agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life",
+      "summary": "Software Engineer responsible delivering outcomes in production (a Rise8 core business promise) through Full Stack Development on Web Applications. Collaborated with the product team to enhance software User Experiences through pair programming, problem-solving, communication, SW Design, participating in and occasionally facilitating agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life",
       "skills": [
         "JavaScript",
         "TypeScript", 
@@ -115,7 +115,7 @@
     },
     {
       "company": "Combat Development Team, Delta 8, USSF",
-      "position": "OIC, Software Development",
+      "position": "Lead Software Developer",
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
