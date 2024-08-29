@@ -189,7 +189,8 @@
       ],
       "highlights": [
         "Chaired working-groups to trend satellite health and potential preventative actions",
-        "on-call engineering support for 4SOPS operators"
+        "Reviewed and approved 2 major satellite software updates (written in C++) to improve satellite capabilities",
+        "On-call engineering support for 4SOPS operators"
       ]
     }
   ],
@@ -254,17 +255,17 @@
       "topics": [
         "Software Engineering 1 (JavaScript)",
         "Discrete Math",
-        "Programming for Engineers (C)",
-        "Object Oriented Programming (C++)",
+        "Programming for Engineers (C/CMake)",
+        "Object Oriented Programming (C++/CMake)",
         "Data Structures & Algorithms",
         "Software Reverse Engineering (C)",
         "Various Computer Science and Computer Engineering topics"
       ],
       "projects": [
-        "Teleskope",
+        "Teleskope (JavaScript Web Development)",
         "MyTasks Android App (Java Android Development)",
-        "Tamagotchi Game",
-        "Automatic Water Bottle Filler"
+        "Tamagotchi Game (C++/CMake)",
+        "Automatic Water Bottle Filler (Arduino Uno + C)"
       ]
     },
     {
