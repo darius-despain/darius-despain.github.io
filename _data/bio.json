@@ -120,11 +120,7 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-<<<<<<< Updated upstream
-      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and technical tools into their ecosystem, and assisting the CDT director in program management for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
-=======
       "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8) and inspiring future developers, designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and automation tools to achieve our leadership's technical vision, and assisting the CDT director in program management for Del 8's portfolio of complex projects. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
->>>>>>> Stashed changes
       "skills": [
         "TypeScript", 
         "Node.js", 
