@@ -121,7 +121,7 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and technical tools into their daily lives, and assisting the CDT director in program management for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
+      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and technical tools into their ecosystem, and assisting the CDT director in program management for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
       "skills": [
         "TypeScript", 
         "Node.js", 
@@ -188,7 +188,7 @@
         "change management"
       ],
       "highlights": [
-        "Chaired working-groups to trend satellite health and potential preventative actions",
+        "Chaired working-groups to trend satellite health, potential preventative actions, and improve engineering processes",
         "on-call engineering support for 4SOPS operators"
       ]
     }
@@ -196,7 +196,7 @@
   "education": [
     {
       "institution": "Drexel University, Remote",
-      "area": "Software Engineering (expected graduation: Spring, 2027)",
+      "area": "Software Engineering (expected graduation: Spring, 2026)",
       "studyType": "M.S.",
       "startDate": "2023-09-26",
       "endDate": "Present",
