@@ -85,7 +85,7 @@
       "website": "https://rise8.us",
       "startDate": "2024-05-28",
       "endDate": "Present",
-      "summary": "Full-Stack Software Engineer (Front End and Back End). Collaborated with the product team to enhance software through pair programming, problem-solving, and communication. Participated in and occasionally facilitated agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life",
+      "summary": "Full-Stack Software Engineer (Front End and Back End). Collaborated with the product team to enhance our web app frontend and RESTful APIs through pair programming/application development, problem-solving, and communication. Participated in and occasionally facilitated agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life",
       "skills": [
         "JavaScript",
         "TypeScript", 
@@ -110,7 +110,9 @@
         "Implemented Git Hooks for pre-commit/push checks, ensuring code quality and adherence to Conventional Commits",
         "Developed in VS Code and IntelliJ IDEA; managed environments with CLI, YAML, Docker, AWS EC2, and ECR",
         "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and deployments",
-        "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors"
+        "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors",
+        "Collaborated with team members to create Architecture/Design Documents to capture the Technical Design of Tracer",
+        "Wrote Python scripts (with SQl queries) to seed development data in MySQL database"
       ]
     },
     {
@@ -260,7 +262,7 @@
       ],
       "projects": [
         "Teleskope",
-        "MyTasks Android App",
+        "MyTasks Android App (Java Android Development)",
         "Tamagotchi Game",
         "Automatic Water Bottle Filler"
       ]
