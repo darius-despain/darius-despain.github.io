@@ -104,7 +104,7 @@
       ],
       "highlights": [
         "Architected and implemented acceptance testing with Playwright/Docker Compose; optimized Cypress tests in Surefire",
-        "Developed 9+ full-stack features for Tracer and Surefire, including injesting CSV uploads and multi-demensional tables",
+        "Developed 9+ full-stack features for Tracer and Surefire, including ingesting CSV uploads and multi-dimensional tables",
         "Integrated code via Git CLI, GitHub Actions/GitLab CI/CD pipelines, Sonarqube, and Pull/Merge Requests",
         "Wrote unit (JUnit/React Testing Library/Jest) and e2e tests (Playwright/Cypress) using Test-Driven Development (TDD)",
         "Implemented Git Hooks for pre-commit/push checks, ensuring code quality and adherence to Conventional Commits",
@@ -112,7 +112,7 @@
         "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and deployments",
         "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors",
         "Collaborated with team members to create Architecture/Design Documents to capture the Technical Design of Tracer",
-        "Wrote Python scripts (with SQl queries) to seed development data in MySQL database"
+        "Wrote Python scripts (with SQL queries) to seed development data in MySQL database"
       ]
     },
     {
@@ -139,7 +139,7 @@
       "highlights": [
         "Digitized operations requests with MOR Tool, launching organization's first in-house software. Chaired 10 stakeholder meetings, coded 7 features, eliminating hard copies for requests. Awarded Junior Officer of Q1/2023",
         "Converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of Palantir Foundry, using Workshop, custom TypeScript functions, Pipeline Builder, Ontology, and Datasets",
-        "Developed code using VS Code and pair programming, managed enivronments with bash/PowerShell/Vagrant/Docker",
+        "Developed code using VS Code and pair programming, managed environments with bash/PowerShell/Vagrant/Docker",
         "Wrote unit (React Testing Library/Enzyme/Jest) and end-to-end/acceptance tests (Cypress)",
         "Troubleshooted staging issues using ArgoCD to manage Kubernetes pod states and deployments",
         "Integrated code with Git CLI, GitLab-CI/CD-Pipelines, including Sonarqube/Forify/Anchor scans, and Merge Requests"
@@ -197,7 +197,7 @@
   "education": [
     {
       "institution": "Drexel University, Remote",
-      "area": "Software Engineering (expected graduation: Spring, 2027)",
+      "area": "Software Engineering (expected graduation: Spring, 2026)",
       "studyType": "M.S.",
       "startDate": "2023-09-26",
       "endDate": "Present",
