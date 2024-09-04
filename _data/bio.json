@@ -109,9 +109,9 @@
         "Wrote unit (JUnit/React Testing Library/Jest) and e2e tests (Playwright/Cypress) using Test-Driven Development (TDD)",
         "Implemented Git Hooks for pre-commit/push checks, ensuring code quality and adherence to Conventional Commits",
         "Developed in VS Code and IntelliJ IDEA; managed environments with CLI, YAML, Docker, AWS EC2, and ECR",
-        "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and deployments",
+        "Troubleshooted staging with ArgoCD, managing microservices Kubernetes pod states and deployments",
         "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors",
-        "Collaborated with team members to create Architecture/Design Documents to capture the Technical Design of Tracer",
+        "Collaborated with team members to create Architecture/Design Documents to capture the technical design of Tracer",
         "Wrote Python scripts (with SQL queries) to seed development data in MySQL database"
       ]
     },
@@ -121,7 +121,7 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement digital and technical tools into their daily lives, and assisting the CDT director in program management for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
+      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software technical solutions to influence the productivity of warfighters at Delta 8 so they can implement efficient digital and technical tools into their daily lives, and assisting the CDT director in program management and engineering leadership for Del 8's software portfolio, including prioritizing projects. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
       "skills": [
         "TypeScript", 
         "Node.js", 
@@ -138,7 +138,8 @@
       ],
       "highlights": [
         "Digitized operations requests with MOR Tool, launching organization's first in-house software. Chaired 10 stakeholder meetings, coded 7 features, eliminating hard copies for requests. Awarded Junior Officer of Q1/2023",
-        "Converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of Palantir Foundry, using Workshop, custom TypeScript functions, Pipeline Builder, Ontology, and Datasets",
+        "Converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of a data analytics platform called Palantir Foundry, using Workshop, custom TypeScript functions, Pipeline Builder, Ontology (database designs), and Datasets",
+        "Oversaw onboarding and mentoring of 3 cohorts of interns, giving clear expectations and teaching them TypeScript, React, and ExpressJS",
         "Developed code using VS Code and pair programming, managed environments with bash/PowerShell/Vagrant/Docker",
         "Wrote unit (React Testing Library/Enzyme/Jest) and end-to-end/acceptance tests (Cypress)",
         "Troubleshooted staging issues using ArgoCD to manage Kubernetes pod states and deployments",
@@ -166,6 +167,7 @@
       ],
       "highlights": [
         "Developed rich text editor and PDF generator for MOR tool, enabling 100 new users",
+        "Optimized API calls for minimized bandwidth to improve system performance by 200%",
         "Developed code with VS Code and pair programming; managed environments with bash/PowerShell/Vagrant/Docker",
         "Integrated code using Git CLI, GitLab CI/CD Pipelines, including Sonarqube/Forify/Anchor scans, and Merge Requests",
         "Wrote unit (Enzyme/Jest) and end-to-end/acceptance tests (Cypress)"
@@ -182,13 +184,13 @@
         "Chair meetings",
         "public speaking",
         "Collaboration",
-        "Communication",
+        "Verbal Communication",
         "Reliability",
         "Problem-solving",
         "change management"
       ],
       "highlights": [
-        "Chaired working-groups to trend satellite health and potential preventative actions",
+        "Chaired working-groups to trend satellite health and potential preventative actions for critical systems",
         "Reviewed and approved 2 major satellite software updates (written in C++) to improve satellite capabilities",
         "On-call engineering support for 4SOPS operators"
       ]
