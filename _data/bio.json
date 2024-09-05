@@ -6,7 +6,7 @@
     "email": "darius.despain@gmail.com",
     "phone": "808-754-9454",
     "website": "https://darius-despain.github.io",
-    "summary": "Transitioning Servicemember who has a passion for solving technical problems and creating quality software to improve the lives of others. Seeking a Full-Stack Software Engineer role in the Northern Colorado Region with a start date of 28 October 2024. Active TS/SCI Security Clearance",
+    "summary": "Transitioning Servicemember who has a passion for solving technical problems and creating quality software systems to improve the lives of others. Seeking a Full-Stack Software Engineer role in the Northern Colorado Region with a start date of 28 October 2024. Active TS/SCI Security Clearance",
     "location": {
       "address": "4986 Denys Dr",
       "postalCode": "80547",
@@ -85,7 +85,7 @@
       "website": "https://rise8.us",
       "startDate": "2024-05-28",
       "endDate": "Present",
-      "summary": "Full-Stack Software Engineer (Front End and Back End). Collaborate with the product team to deliver outcomes in production environments by enhancing our web app frontend and RESTful APIs through pair programming/application development, problem-solving/debugging, and communication. Participated in and occasionally facilitated agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life with a focus on software engineering",
+      "summary": "Full-Stack Software Engineer (Front End and Back End). Collaborate with the product team to deliver outcomes in production systems by enhancing our web app frontend and RESTful APIs through pair programming/application development, problem-solving/debugging, and communication. Participated in and occasionally facilitated agile ceremonies. Position obtained through the DoD SkillBridge program during transition from Active Duty to civilian life with a focus on software engineering",
       "skills": [
         "JavaScript",
         "TypeScript", 
@@ -104,15 +104,15 @@
       ],
       "highlights": [
         "Architected and implemented acceptance testing with Playwright/Docker Compose; optimized Cypress tests in Surefire",
-        "Developed 9+ full-stack features for Tracer & Surefire, including injesting CSV uploads via API calls and multi-dimensional tables",
+        "Developed 15+ full-stack features for Tracer & Surefire, including ingesting CSV uploads and multi-dimensional tables",
         "Integrated code via Git CLI, GitHub Actions/GitLab CI/CD pipelines, Sonarqube, and Pull/Merge Requests",
         "Wrote unit (JUnit/React Testing Library/Jest) and e2e tests (Playwright/Cypress) using Test-Driven Development (TDD)",
         "Implemented Git Hooks for pre-commit/push checks, ensuring code quality and adherence to Conventional Commits",
         "Developed in VS Code and IntelliJ IDEA; managed environments with CLI, YAML, Docker, AWS EC2, and ECR",
         "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and cloud based deployments",
-        "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors",
+        "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors and preserve services for end users",
         "Collaborated with team members to create Architecture/Design Documents to capture the Technical Design of Tracer",
-        "Wrote Python scripts (with SQl queries) to seed development data in MySQL database"
+        "Wrote Python scripts (with SQL queries) to seed development data in MySQL database"
       ]
     },
     {
@@ -121,7 +121,7 @@
       "website": "",
       "startDate": "2022-11-01",
       "endDate": "2024-05-23",
-      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement efficient digital and technical tools into their daily lives, and assisting the CDT director in program management, including to prioritize projects and innovate new ideas, for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
+      "summary": "Responsible for leading the software development technical team at Space Delta 8 (Del 8), designing and implementing software product development to enable the warfighters at Delta 8 so they can implement efficient digital and technical systems into their daily lives, and assisting the CDT director in program management, including to prioritize projects, communicate existing services to users, and innovate new ideas, for Del 8's software portfolio. Also fostered communication and collaboration with stakeholders, end-users, and technical team",
       "skills": [
         "TypeScript", 
         "Node.js", 
@@ -137,9 +137,9 @@
         "COMET"
       ],
       "highlights": [
-        "Digitized operations requests with MOR Tool, launching organization's first in-house software. Chaired 10 stakeholder meetings, coded 7 features, eliminating hard copies for requests. Awarded Junior Officer of Q1/2023",
+        "Digitized operations requests with MOR Tool, launching organization's first in-house software system. Chaired 10 stakeholder meetings, coded 7 features, eliminating hard copies for requests. Awarded Junior Officer of Q1/2023",
         "Converted legacy full-stack application to low-code/no-code application on Warp Core, the USSF's instantiation of Palantir Foundry, using Workshop, custom TypeScript functions, Pipeline Builder, Ontology, and Datasets",
-        "Developed code using VS Code and pair programming, managed enivronments with bash/PowerShell/Vagrant/Docker",
+        "Developed code using VS Code and pair programming, managed environments with bash/PowerShell/Vagrant/Docker",
         "Wrote unit (React Testing Library/Enzyme/Jest) and end-to-end/acceptance tests (Cypress)",
         "Troubleshooted staging issues using ArgoCD to manage Kubernetes pod states and cloud based deployments",
         "Integrated code with Git CLI, GitLab-CI/CD-Pipelines, including Sonarqube/Forify/Anchor scans, and Merge Requests"
@@ -151,7 +151,7 @@
       "website": "https://spacecamp.il2.dso.mil/#/home",
       "startDate": "2022-07-15",
       "endDate": "2022-11-01",
-      "summary": "Full-Stack Developer assigned to the MOR Tool product team responsible for technical implementation for our application",
+      "summary": "Full-Stack Developer assigned to the MOR Tool product team responsible for technical implementation for our production application to ensure quality and continued services for our end-users",
       "skills": [
         "JavaScript",
         "TypeScript", 
@@ -188,7 +188,7 @@
         "change management"
       ],
       "highlights": [
-        "Chaired working-groups to trend satellite health and potential preventative actions",
+        "Chaired working-groups to trend satellite system health and potential preventative actions",
         "Reviewed and approved 2 major satellite software updates (written in C++) to improve satellite capabilities",
         "On-call engineering support for 4SOPS operators"
       ]
@@ -197,14 +197,14 @@
   "education": [
     {
       "institution": "Drexel University, Remote",
-      "area": "Software Engineering (expected graduation: Spring, 2027)",
+      "area": "Software Engineering (expected graduation: Spring, 2026)",
       "studyType": "M.S.",
       "startDate": "2023-09-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "topics": [
         "Agile Software Development (Java with Extreme Programming)",
-        "Software Design"
+        "Software Design (Java)"
       ]
     },
     {
