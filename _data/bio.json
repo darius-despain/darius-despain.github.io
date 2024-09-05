@@ -104,12 +104,12 @@
       ],
       "highlights": [
         "Architected and implemented acceptance testing with Playwright/Docker Compose; optimized Cypress tests in Surefire",
-        "Developed 15+ full-stack features for Tracer & Surefire, including ingesting CSV uploads and multi-dimensional tables",
+        "Developed 15+ full-stack stories for Tracer & Surefire, including ingesting CSV API uploads and multi-dimensional tables",
         "Integrated code via Git CLI, GitHub Actions/GitLab CI/CD pipelines, Sonarqube, and Pull/Merge Requests",
         "Wrote unit (JUnit/React Testing Library/Jest) and e2e tests (Playwright/Cypress) using Test-Driven Development (TDD)",
         "Implemented Git Hooks for pre-commit/push checks, ensuring code quality and adherence to Conventional Commits",
         "Developed in VS Code and IntelliJ IDEA; managed environments with CLI, YAML, Docker, AWS EC2, and ECR",
-        "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and cloud based deployments",
+        "Troubleshooted staging with ArgoCD, managing Kubernetes pod states and cloud based deployments for UI/API",
         "Converted 10+ JavaScript files to TypeScript to prevent UI runtime errors and preserve services for end users",
         "Collaborated with team members to create Architecture/Design Documents to capture the Technical Design of Tracer",
         "Wrote Python scripts (with SQL queries) to seed development data in MySQL database"
