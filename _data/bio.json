@@ -102,7 +102,7 @@
         "Surefire"
       ],
       "highlights": [
-        "Architected and implemented acceptance testing with Playwright/Docker Compose; optimized Cypress tests in Surefire",
+        "Architected and implemented e2e testing with Playwright/Docker Compose; overhauled Cypress CI/CD architecture in Surefire",
         "Developed 9+ full-stack features for Tracer and Surefire, including ingesting CSV uploads and multi-dimensional tables",
         "Integrated into codebase via Git CLI, GitHub Actions/GitLab CI/CD pipelines, Sonarqube, and  code reviews via Pull/Merge Requests",
         "Wrote unit (JUnit/React Testing Library/Jest) and e2e tests (Playwright/Cypress) using Test-Driven Development (TDD)",
